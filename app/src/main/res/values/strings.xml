@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ラベルミル</string>
+    <string name="action_settings">設定</string>
+    <string name="image_details_header">詳細:</string>
+    <string name="image_preview_header">プレビュー:</string>
+    <string name="loading_message">画像をアップロード中（　＾ω＾）・・・</string>
+
+    <string name="dialog_select_prompt">写真を選択</string>
+    <string name="dialog_select_camera">カメラ</string>
+    <string name="dialog_select_gallery">ギャラリー</string>
+
+    <string name="image_picker_error">画像に問題があり読み込めません。別のを選んでください。</string>
+</resources>
